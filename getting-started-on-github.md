@@ -53,6 +53,6 @@ When working on the desktop, you must pull down any recent changes from the repo
 
 <img src="http://benhourigan.com/media/transmit-droplet/editing-in-atom.jpg" style="width: 100%">
 
-## Commit your changes
+## Commit and sync your changes
 
 <img src="http://benhourigan.com/media/transmit-droplet/commit-in-github-mac.jpg" style="width: 100%">
